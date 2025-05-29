@@ -37,5 +37,7 @@ Sou desenvolvedor Flutter com foco em aplicações modernas, responsivas e com b
 
 <div align="center">
   <!-- Animação da cobrinha -->
-  ![Snake animation](https://github.com/nevitonviana/nevitonviana/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github-readme-stats.vercel.app/api/wakatime?username=nevitonviana)
+  ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=nevitonviana&theme=dracula)
+
 </div>
