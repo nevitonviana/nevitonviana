@@ -8,7 +8,7 @@
 
 ## 🇧🇷 PT-BR
 
-<h1 align="center">👋 Olá, eu sou o Neviton Viana</h1>
+<h1 id="pt-br-" align="center">👋 Olá, eu sou o Neviton Viana</h1>
 
 <p align="center">
   🚀 Desenvolvedor <strong>Flutter</strong> apaixonado por criar <strong>interfaces modernas</strong>, <strong>experiências fluidas</strong> e <strong>aplicações performáticas</strong>.
@@ -52,7 +52,7 @@
 
 ## 🇺🇸 EN
 
-<h1 align="center">👋 Hello, I'm Neviton Viana</h1>
+<h1 id="en-" align="center">👋 Hello, I'm Neviton Viana</h1>
 
 <p align="center">
   🚀 I'm a passionate <strong>Flutter Developer</strong> who loves creating <strong>modern UIs</strong>, <strong>fluid experiences</strong>, and <strong>high-performance apps</strong>.
