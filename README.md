@@ -1,7 +1,8 @@
 
 <p align="center">
-  <a href="#pt-br">🇧🇷 Português</a> | <a href="#en">🇺🇸 English</a>
+  <a href="#pt-br-">🇧🇷 Português</a> | <a href="#en-">🇺🇸 English</a>
 </p>
+
 
 ---
 
