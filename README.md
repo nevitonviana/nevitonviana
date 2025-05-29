@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+ <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>  -->
 </p>
 
 ### 🌐 Como me encontrar
@@ -52,7 +52,7 @@
 
 ## 🇺🇸 EN
 
-<h1 id="en-" align="center">👋 Hello, I'm Neviton Viana</h1>
+<h1 align="center">👋 Hello, I'm Neviton Viana</h1>
 
 <p align="center">
   🚀 I'm a passionate <strong>Flutter Developer</strong> who loves creating <strong>modern UIs</strong>, <strong>fluid experiences</strong>, and <strong>high-performance apps</strong>.
@@ -71,7 +71,7 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+ <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>  -->
 </p>
 
 ### 🌐 How to reach me
