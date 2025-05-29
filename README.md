@@ -38,4 +38,7 @@ Sou desenvolvedor Flutter com foco em aplicações modernas, responsivas e com b
 
   ![Snake animation](https://github-readme-activity-graph.vercel.app/graph?username=nevitonviana&theme=dracula)
 
+  ![Snake animation](https://github-readme-stats.vercel.app/api/wakatime?username=nevitonviana)
+
+
 
