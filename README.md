@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="#pt-br-">🇧🇷 Português</a> | <a href="#en-">🇺🇸 English</a>
+  <a href="#pt-br-">🇧🇷 Português</a> | <a href="#en-usa-">🇺🇸 English</a>
 </p>
 
 
@@ -52,7 +52,7 @@
 
 ## 🇺🇸 EN
 
-<h1 align="center">👋 Hello, I'm Neviton Viana</h1>
+<h1 id="en-usa-">👋 Hello, I'm Neviton Viana</h1>
 
 <p align="center">
   🚀 I'm a passionate <strong>Flutter Developer</strong> who loves creating <strong>modern UIs</strong>, <strong>fluid experiences</strong>, and <strong>high-performance apps</strong>.
